@@ -4,9 +4,9 @@
 **목차(Context)**
 > <h6>(※ 목차의 프로젝트를 클릭하시면 상세내용으로 이동합니다.)</h6>
 
-* [1.쇼핑몰 플랫폼 데이터 EDA 및 Viz(시각화) - RFM](https://github.com/99echoo/Data-Analysis-Portfolio/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%202024.04.11)
+* [1.쇼핑몰 플랫폼 데이터 EDA 및 Viz(시각화) - RFM](https://github.com/99echoo/Data-Analysis-Portfolio/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%202024.04.11)\
 ```Python을 활용해서 쇼핑몰 플랫폼 Data EDA, Visualization하고 RFM 분석을 수행하였습니다.```
-* [2.온라인 교육 플랫폼 고객 데이터 EDA 및 Viz(시각화) - 키워드 분석, 시계열 분석, OLS](https://github.com/99echoo/Data-Analysis-Portfolio/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%202024.04.19)
+* [2.온라인 교육 플랫폼 고객 데이터 EDA 및 Viz(시각화) - 키워드 분석, 시계열 분석, OLS](https://github.com/99echoo/Data-Analysis-Portfolio/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%202024.04.19)\
 ```온라인 교육 플랫폼 2022년 고객 Data EDA, Visualization해 전략적인 인사이트를 도출하는 과정을 진행하였습니다. 과정에서 키워드 분석하고, 시계열 데이터 분석, OLS를 활용하였습니다.```  
 
 ## 1. 쇼핑몰 플랫폼 데이터 EDA 및 Viz(시각화) - RFM
